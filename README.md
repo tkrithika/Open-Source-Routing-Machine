@@ -210,6 +210,16 @@ Now you can begin executing the notebooks in order:
 
 ---
 
+## Who Is This For?
+
+This repository is ideal for:
+- Developers new to OSRM
+- Students learning routing algorithms
+- Engineers working with GPS trajectory data
+- Anyone interested in map matching and route optimization
+
+---
+
 This repository was created as a beginner-friendly, hands-on guide to understanding and working with the Open Source Routing Machine (OSRM) using Python.
 The goal of this project is to:
 - Break down each OSRM service into clear, structured notebooks
@@ -221,13 +231,13 @@ Each notebook builds on the previous one, forming a progressive learning path â€
 
 ---
 
-## Who Is This For?
+## Acknowledgment
 
-This repository is ideal for:
-- Developers new to OSRM
-- Students learning routing algorithms
-- Engineers working with GPS trajectory data
-- Anyone interested in map matching and route optimization
+This project was inspired by:
+https://github.com/ImadSaddik/OSRM_Course_Python
+
+The original structure has been adapted and modified
+to fit my specific use case and learning goals.
 
 
 
