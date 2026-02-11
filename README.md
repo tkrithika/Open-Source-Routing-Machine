@@ -77,12 +77,20 @@ Project Root
 │
 ├── data
 │   └── bremen-latest.osm.pbf
-├── Open-source-routing-machine (This repo)
-│       ├── data
-│       ├── notebooks
-│       ├── .gitignore
-│       ├── README.md
-│       └── requirements.txt
+└── Open-source-routing-machine (This repo)
+        ├── data
+        │     ├── gps_trace.gpx
+        │     ├── nearest_service_data.csv
+        │     └── trip_service_data.csv
+        └── notebooks
+        │        ├── 01_OSRM_Route_Analysis.ipynb
+        │        ├── 02_OSRM_Nearest_Service_Analysis.ipynb
+        │        ├── 03_OSRM_Table_Service_Analysis.ipynb
+        │        ├── 04_OSRM_Match_Service_Analysis.ipynb
+        │        └── 05_OSRM_Trip_Service_Analysis.ipynb
+        ├── .gitignore
+        ├── README.md
+        └── requirements.txt
 ```
 
 
