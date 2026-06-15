@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-7D4698?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
 # Open-Source-Routing-Machine
 
 
