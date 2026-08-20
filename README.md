@@ -15,14 +15,14 @@ A comprehensive collection of Jupyter Notebooks demonstrating how to programmati
 
 This repository walks through the core OSRM services:
 
-- **Route** — Compute optimized paths between waypoints  
-- **Nearest** — Snap raw coordinates to the routable network  
-- **Table** — Generate travel time matrices  
-- **Match** — Align GPS traces to the road graph  
-- **Trip** — Solve Traveling Salesman Problem (multi-stop optimization)  
-- **Advanced Usage** — Modifying internal point limits & batching  
+- **Route** :Compute optimized paths between waypoints  
+- **Nearest** :Snap raw coordinates to the routable network  
+- **Table** :Generate travel time matrices  
+- **Match** :Align GPS traces to the road graph  
+- **Trip** :Solve Traveling Salesman Problem (multi-stop optimization)  
+- **Advanced Usage** :Modifying internal point limits & batching  
 
-Each notebook is structured to be clear, consistent, and informative — ideal for learning, experimentation, or extension into production workflows.
+Each notebook is structured to be clear, consistent, and informative ideal for learning, experimentation, or extension into production workflows.
 
 ---
 
@@ -40,11 +40,11 @@ Each notebook is structured to be clear, consistent, and informative — ideal f
 
 ## Key Features
 
-✔ **Structured workflow examples** — each notebook follows a clean, analytical approach for clarity.  
-✔ **Interactive maps** — using `folium` for live route and point visualization.  
-✔ **Reproducible code** — ready to run with minimal setup.  
-✔ **Real GPS data handling** — GPX parsing and matching with timestamp support.  
-✔ **Configurable parameters** — demonstrating optional OSRM settings like radiuses, roundtrips, and constraints.  
+✔ **Structured workflow examples** :each notebook follows a clean, analytical approach for clarity.  
+✔ **Interactive maps** :using `folium` for live route and point visualization.  
+✔ **Reproducible code** :ready to run with minimal setup.  
+✔ **Real GPS data handling** :GPX parsing and matching with timestamp support.  
+✔ **Configurable parameters** :demonstrating optional OSRM settings like radiuses, roundtrips, and constraints.  
 
 ---
 
@@ -237,7 +237,7 @@ The goal of this project is to:
 - Explain both the theory and implementation step by step
 - Make routing concepts accessible to developers at any level
 
-Each notebook builds on the previous one, forming a progressive learning path — from basic route computation to advanced services like Match, Trip (TSP), and modifying service limitations.
+Each notebook builds on the previous one, forming a progressive learning path from basic route computation to advanced services like Match, Trip (TSP), and modifying service limitations.
 
 ---
 
